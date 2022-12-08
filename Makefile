@@ -22,7 +22,7 @@ test-ovn2 : ovn2
 	bash test/test_ovn2.sh
 
 ovn2: ovn2_sol.c
-	gcc ovn2_sol.c -o ovn2 -pthread
+	gcc ovn2.c -o ovn2 -pthread
 
 clean-ovn2:
 	rm -f ovn2
