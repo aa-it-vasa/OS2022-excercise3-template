@@ -1,3 +1,6 @@
 [submodule "os2022-excercise3-test"]
 	path = os2022-excercise3-test
 	url = https://github.com/aa-it-vasa/os2022-excercise3-test
+[submodule "test"]
+	path = test
+	url = https://github.com/aa-it-vasa/os2022-excercise3-test
